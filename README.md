@@ -5,7 +5,7 @@ Web Scraping  simples.
 
 Web Scraping feito para pesquisar vagas de Data Science no site https://br.indeed.com/
 
-para que você consiga utiliza-lo em outros sites é necessários algumas alterações:
+para que você consiga utiliza-lo é necessário que o Chrome Driver esteja na mesma pasta do arquivo python e faça outras alterações:
 
 deve-se trocar o link do site que você queira fazer o scraping.
 
